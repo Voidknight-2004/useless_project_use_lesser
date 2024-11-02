@@ -2,7 +2,7 @@ import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuIt
 import { Bars3Icon, BellIcon, XMarkIcon,Bars4Icon } from '@heroicons/react/24/outline'
 import { useState } from 'react'
 import { usePoints } from './PointsProvider'
-import useless from '../images/useless.jpeg'
+import useless from '../images/robin.jpeg'
 
 const navigation = [
   { name: 'Daily Goals', href: '/goals', current: true },
@@ -39,7 +39,7 @@ export default function Navbar() {
               /> }   */}
               
             </div>
-            <h1 className='text-white font-bold text-3xl p-1 -ml-4 mb-1'>Use Lesser</h1>
+            <h1 className='text-blue-400 font-bold text-3xl p-1 -ml-4 mb-1'>Use Lesser</h1>
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4">
                 {navigation.map((item) => (
@@ -87,7 +87,7 @@ export default function Navbar() {
               >
                 <MenuItem>
                   <a href="#" className="block px-4 py-2 text-sm text-gray-700 data-[focus]:bg-gray-100">
-                    Sourav
+                    Robin
                   </a>
                 </MenuItem>
                 <MenuItem>
@@ -97,7 +97,7 @@ export default function Navbar() {
                 </MenuItem>
                 <MenuItem>
                   <a href="#" className="block px-4 py-2 text-sm text-gray-700 data-[focus]:bg-gray-100">
-                    Sign out
+            
                   </a>
                 </MenuItem>
               </MenuItems>
