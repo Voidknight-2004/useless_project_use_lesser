@@ -31,9 +31,9 @@ For Software:
 # Installation
 cd into use_lesser
 
-## Run
-npm i 
-npm run dev
+### Run
+- npm i 
+- npm run dev
 
 ### Project Documentation
 For Software:
