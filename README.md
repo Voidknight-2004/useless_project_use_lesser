@@ -1,95 +1,66 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Procrastination App 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Use-Lesser
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Rohan A Jacob - College of Engineering Trivandrum
+- Member 2: Robin Rajesh - College of Engineering Trivandrum
+- Member 3: Sourav B - College of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+A procrastination app that helps us to waste our valuable time! It includes a useless goal tracker with an inbuilt point system; An alarm clock that doesn't ring on time; And a lazy chatbot that helps us in our procrastination endeavours.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+We spend way too much time working, and no time is left for the lazy bugs inside us :( . 
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript,CSS,HTML
+- React, Tailwind
+- Tailwind UI, Gemini API
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
+
+
 # Installation
-[commands]
+cd into use_lesser
 
-# Run
-[commands]
+### Run
+- npm i 
+- npm run dev
 
-### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![WhatsApp Image 2024-11-02 at 13 57 31_5a11c7ef](https://github.com/user-attachments/assets/2bd51443-8bfd-4ea0-ab08-247ac017f9f8)
+*Lazy Bot interface*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2024-11-02 at 13 57 31_88990684](https://github.com/user-attachments/assets/fa6699de-974e-4b2d-97f5-57823ff8fdc0)
+*Alarm Clock*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![WhatsApp Image 2024-11-02 at 13 57 31_1f03231f](https://github.com/user-attachments/assets/584f585c-0b2f-431f-bab2-316b5bbbd1ba)
 
-For Hardware:
+*Goal Tracker*
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Rohan A jacob: Full Stack
+- Robin Rajesh: Front-End
+- Sourav B: UI/UX
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
