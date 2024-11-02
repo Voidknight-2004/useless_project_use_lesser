@@ -28,6 +28,7 @@ For Software:
 
 
 
+
 # Installation
 cd into use_lesser
 
@@ -35,12 +36,10 @@ cd into use_lesser
 - npm i 
 - npm run dev
 
-### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![WhatsApp Image 2024-11-02 at 13 57 31_5a11c7ef](https://github.com/user-attachments/assets/2bd51443-8bfd-4ea0-ab08-247ac017f9f8)
+*Lazy Bot interface*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -51,7 +50,7 @@ For Software:
 
 
 # Build Photos
-![Components](Add photo of your components here)
+(Add photo of your components here)
 *List out all components shown*
 
 ![Build](Add photos of build process here)
