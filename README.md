@@ -32,8 +32,8 @@ For Software:
 cd into use_lesser
 
 # Run
-##npm i 
-##npm run dev
+-npm i 
+--npm run dev
 
 ### Project Documentation
 For Software:
