@@ -1,22 +1,22 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Procrastination App] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Use-Lesser]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Rohan A Jacob] - [College of Engineering Trivandrum]
+- Member 2: [Robin Rajesh] - [College of Engineering Trivandrum]
+- Member 3: [Sourav B] - [College of Engineering Trivandrum]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A procrastination app that helps us to waste our valuable time! It includes a useless goal tracker with an inbuilt point system; An alarm clock that doesn't ring on time; And a lazy chatbot that helps us in our procrastination endeavours.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[lorem ipsum]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
