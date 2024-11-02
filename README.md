@@ -1,46 +1,41 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Procrastination App] 🎯
+# Procrastination App 🎯
 
 
 ## Basic Details
-### Team Name: [Use-Lesser]
+### Team Name: Use-Lesser
 
 
 ### Team Members
-- Team Lead: [Rohan A Jacob] - [College of Engineering Trivandrum]
-- Member 2: [Robin Rajesh] - [College of Engineering Trivandrum]
-- Member 3: [Sourav B] - [College of Engineering Trivandrum]
+- Team Lead: Rohan A Jacob - College of Engineering Trivandrum
+- Member 2: Robin Rajesh - College of Engineering Trivandrum
+- Member 3: Sourav B - College of Engineering Trivandrum
 
 ### Project Description
-[A procrastination app that helps us to waste our valuable time! It includes a useless goal tracker with an inbuilt point system; An alarm clock that doesn't ring on time; And a lazy chatbot that helps us in our procrastination endeavours.]
+A procrastination app that helps us to waste our valuable time! It includes a useless goal tracker with an inbuilt point system; An alarm clock that doesn't ring on time; And a lazy chatbot that helps us in our procrastination endeavours.
 
 ### The Problem (that doesn't exist)
-[lorem ipsum]
+We spend way too much time working, and no time is left for the lazy bugs inside us :( . 
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript,CSS,HTML
+- React, Tailwind
+- Tailwind UI, Gemini API
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+cd into use_lesser
 
 # Run
-[commands]
+npm i 
+npm run dev
 
 ### Project Documentation
 For Software:
@@ -55,18 +50,7 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -87,9 +71,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Rohan A jacob: Full Stack
+- Robin Rajesh: Front-End
+- Sourav B: UI/UX
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
