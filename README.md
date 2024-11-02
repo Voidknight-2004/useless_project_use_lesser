@@ -41,31 +41,21 @@ cd into use_lesser
 ![WhatsApp Image 2024-11-02 at 13 57 31_5a11c7ef](https://github.com/user-attachments/assets/2bd51443-8bfd-4ea0-ab08-247ac017f9f8)
 *Lazy Bot interface*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2024-11-02 at 13 57 31_88990684](https://github.com/user-attachments/assets/fa6699de-974e-4b2d-97f5-57823ff8fdc0)
+*Alarm Clock*
 
+![WhatsApp Image 2024-11-02 at 13 57 31_1f03231f](https://github.com/user-attachments/assets/584f585c-0b2f-431f-bab2-316b5bbbd1ba)
 
+*Goal Tracker*
 
-# Build Photos
-(Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - Rohan A jacob: Full Stack
