@@ -28,8 +28,6 @@ For Software:
 
 
 
-### Implementation
-For Software:
 # Installation
 cd into use_lesser
 
