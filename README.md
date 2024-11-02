@@ -2,6 +2,8 @@
 
 # Procrastination App 🎯
 
+- Live Site: https://useless-project-use-lesser.vercel.app
+
 
 ## Basic Details
 ### Team Name: Use-Lesser
@@ -52,8 +54,8 @@ cd into use_lesser
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1X0JzIv9Zj4Ug106__l38IIf8cbGkbP8x/view?usp=sharing
+*Video going through functionality*
 
 
 
